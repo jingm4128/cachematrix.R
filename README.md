@@ -1,2 +1,0 @@
-# cachematrix.R
-Jing Ma
